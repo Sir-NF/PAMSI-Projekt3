@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 868b7d4ef2cee854b949cd8c85bfc897
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel-Art
+  fontNames:
+  - Pixel-Art
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30517b7244998f24ba485f7fb5eb3d8f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
